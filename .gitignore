@@ -4,3 +4,7 @@ clientIPv6
 serverIPv6
 MyClientIPv6
 MyServerIPv6
+client
+server
+MyClient
+MyServer
